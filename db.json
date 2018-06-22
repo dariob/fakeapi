@@ -1,0 +1,11 @@
+{
+  'users': 
+  [
+    {    
+      result:'ok',
+      user_id: 232,
+      group_id: 21,
+      displayName: "Dario Barilà"
+    }
+  ]
+}
